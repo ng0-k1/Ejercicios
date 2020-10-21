@@ -1,5 +1,5 @@
 print("hola mundo, este es un mensaje de prueba de un primer commit")
-print("Hola en el master")
-print("Modificación en rama")
-print("Que ondaaaaa")
-print("Prueba para git kraken")
+
+
+
+print("Practicando con gitkraken")
